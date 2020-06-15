@@ -6,7 +6,7 @@ Requirements:
 - dotenv
 - Discord.com certificate installed on Windows
 
-* To get this certificate
+To get this certificate:
 - Go to discord.com in Microsoft Edge
 - Click on the lock to the left of the url
 - On the pop up menu that appears on the right side of the window, select the certificate file (should be highlighted)
